@@ -1,0 +1,16 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-image: url(../img/3.gif);
+    background-size: cover;
+}
+
+.contenedor{
+    background-color:#000 ;
+    background-size: cover ;
+    height: 100px ;
+    opacity:0.6;
+    margin-top: 870px ;
+}
